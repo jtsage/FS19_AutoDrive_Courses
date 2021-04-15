@@ -8,7 +8,7 @@ Official Modhub
 
 # Route Map Image
 
-![Route Map](./RouteMap.png)
+![Route Map](Map.png)
 
 # Route Type Preference
 
