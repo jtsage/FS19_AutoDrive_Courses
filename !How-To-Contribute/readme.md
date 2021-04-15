@@ -16,12 +16,12 @@ Screen capture from the course editor showing the routes on the PDA map.  The re
 
 # Translations
 
-Sadly, the repo owner only speaks English - however, should anyone want to translate either RouteInformation of course files, they will gladly be accepted.  
+Sadly, the repo owner only speaks English - however, should anyone want to translate either RouteInformation or course files (destination names), they will gladly be accepted.  Please fork the repository and submit a pull request so that proper credit is shown.
 
 When contributing course files with translations, please append the language code to the file.  i.e.
 
 ```AutoDrive_config.xml -> AutoDrive_config.en.xml```
 
-Please leave the original AutoDrive_config.xml in the original submitters language.
+Please leave _AutoDrive_config.xml_ in the original contributors language.
 
-_CourseInformation.md_ translations should be saved as the localized name, i.e. "_KursInformation.md_" (google translate, sorry)
+_CourseInformation.md_ translations should be saved as the localized name, i.e. "_KursInformation.md_" (google translate, sorry if this is incorrect.)
