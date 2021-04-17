@@ -1,6 +1,6 @@
 # AutoDrive Route Files
 
-A collection of AutoDrive FS19 route files.
+A collection of AutoDrive FS19 route files.  This project is in no way directly affiliated with the main AutoDrive project.
 
 ## License
 
