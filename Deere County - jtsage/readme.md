@@ -6,6 +6,10 @@ Deere County
 
 Official Modhub
 
+## Translations
+
+None.
+
 # Route Map Image
 
 ![Route Map](Map.png)

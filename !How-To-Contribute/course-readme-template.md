@@ -6,6 +6,10 @@ The official name of the map
 
 Note where to get the map. If the map is private only, your route file probably does not belong here
 
+## Translations
+
+Links to documentation translations.
+
 # Route Map Image
 
 A PNG image of the route.  You can use the standalone course editor to take screen shots.  If you are unable to take your own image, please make sure the map source is accurate above and the repo owner will try and help out.

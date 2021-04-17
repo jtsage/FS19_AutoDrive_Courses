@@ -8,7 +8,7 @@ For more information on how to fork a repository and submit a pull request, see 
 
 ## Requirements:
 
-Course file and the _RouteInformation.md_ file, properly edited.
+Course file and the _course-readme-template.md_ file, properly edited.
 
 ## Recommended:
 
@@ -16,7 +16,7 @@ Screen capture from the course editor showing the routes on the PDA map.  The re
 
 # Translations
 
-Sadly, the repo owner only speaks English - however, should anyone want to translate either RouteInformation or course files (destination names), they will gladly be accepted.  Please fork the repository and submit a pull request so that proper credit is shown.
+Sadly, the repo owner only speaks English - however, should anyone want to translate either the readme.md or course files (destination names), they will gladly be accepted.  Please fork the repository and submit a pull request so that proper credit is shown.
 
 When contributing course files with translations, please append the language code to the file.  i.e.
 
@@ -24,4 +24,4 @@ When contributing course files with translations, please append the language cod
 
 Please leave _AutoDrive_config.xml_ in the original contributors language.
 
-_CourseInformation.md_ translations should be saved as the localized name, i.e. "_KursInformation.md_" (google translate, sorry if this is incorrect.)
+_readme.md_ translations should be saved as the localized name, i.e. "_readme_de.md_" and linked in the original file.

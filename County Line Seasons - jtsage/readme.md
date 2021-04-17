@@ -8,6 +8,9 @@ American Eagle Modding (free login required)
 
 http://americaneaglesmodding.com/index.php?action=downloads;sa=view;down=1788
 
+## Translations
+
+None.
 
 # Route Map Image
 

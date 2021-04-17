@@ -6,6 +6,10 @@ Przema's Outback
 
 Official Modhub
 
+## Translations
+
+None.
+
 # Route Map Image
 
 ![Route Map](Map.png)

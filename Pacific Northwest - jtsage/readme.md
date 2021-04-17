@@ -6,6 +6,10 @@ The Pacific Northwest
 
 Official ModHub
 
+## Translations
+
+None.
+
 # Route Map Image
 
 ![Route Map](Map.png)
