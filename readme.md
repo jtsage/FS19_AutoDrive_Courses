@@ -16,3 +16,6 @@ WARNING: this procedure **will** overwrite any existing courses for that save ga
 
 Take a look in the !How-To-Contribute folder for instructions.  Basically, fork the repository, add your course file and (hopefully) an image, and send a pull request.  If anyone is interested in co-managing this repo, please shoot the owner a message.
 
+# How much does this cost me?
+
+Nothing.  All courses here are free of charge, this repositiory will not support any commercialization of work.  If you are looking to either sell your courses, or pay someone to make one, please look elsewhere.
