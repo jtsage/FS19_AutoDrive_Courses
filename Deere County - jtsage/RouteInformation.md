@@ -22,6 +22,8 @@ All transport mission locations are served near, but not on top of, the trigger.
 
 Central farm location has some additional paths and parking - no additional structures were added to the map yet.
 
+Note that some points are after a weight station trigger and AD will not by default drive over them - you can either increase your collision height setting, turn off collisions, or do what I did and hide the trigger itself using the "Map Objects Hider" mod.
+
 # Named Destinations
 
 ## Fields Served
