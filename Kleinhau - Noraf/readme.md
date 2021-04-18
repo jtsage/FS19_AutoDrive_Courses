@@ -14,7 +14,7 @@ None.
 
 # Route Map Image
 
-Not currently awailible
+![Route Map](Map.png)
 
 # Route Type Preference
 
