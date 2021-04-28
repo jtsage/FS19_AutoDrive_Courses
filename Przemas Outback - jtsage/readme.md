@@ -5,6 +5,7 @@ Przema's Outback
 ## Map Source
 
 Official Modhub
+https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=144410&title=fs2019
 
 ## Translations
 

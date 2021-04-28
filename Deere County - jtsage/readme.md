@@ -4,7 +4,8 @@ Deere County
 
 ## Map Source
 
-Official Modhub
+Facebook - DJ Modding
+https://www.facebook.com/DjModding571/
 
 ## Translations
 

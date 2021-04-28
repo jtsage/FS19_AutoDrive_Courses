@@ -5,6 +5,7 @@ The Pacific Northwest
 ## Map Source
 
 Official ModHub
+https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=131624&title=fs2019
 
 ## Translations
 
