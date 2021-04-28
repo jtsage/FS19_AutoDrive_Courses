@@ -25,3 +25,11 @@ When contributing course files with translations, please append the language cod
 Please leave _AutoDrive_config.xml_ in the original contributors language.
 
 _readme.md_ translations should be saved as the localized name, i.e. "_readme_de.md_" and linked in the original file.
+
+### REGEX For destinations
+
+If you have a good editor, this will extract the name of the points from the AutoDrive XML.  Don't save.
+
+```
+<mm.+?>\n.+?\n.+?<name>(.+?)</name>\n.+?\n.+?</mm.+?>
+```
