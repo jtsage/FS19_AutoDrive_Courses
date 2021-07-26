@@ -37,6 +37,8 @@ Special Note: Field 05 has a very tight turnaround. For my play-through, I will 
 
  * Silo - BGA [a/n: Pickup side is at the farm. Very cool.]
  * Silo - BGA Pickup (farm)
+ * Silo - Dock (back)
+ * Silo - Dock Pickup (back)
  * Silo - Grain
  * Silo - Grain Pickup
  * Silo - Hay Loft
@@ -62,7 +64,7 @@ Wow there are a ton of them.
  * Sell - Grain Warehouse
  * Sell - Grannys Island (hand)
  * Sell - Hilltop Windmill
- * Sell - Manure Yard
+ * Sell - Manure Yard (back)
  * Sell - Portside Cafe (hand)
  * Sell - Portside Grains
  * Sell - Root Crops
@@ -73,14 +75,14 @@ Wow there are a ton of them.
  * Sell - Spinnery (back)
  * Sell - Sunflower Oil Company
  * Sell - The Straw Barn
- * Sell - Zone Petrol 1
+ * Sell - Zone Petrol 1 (back)
  * Sell - Zone Petrol 2
  * Sell - Zone Propane 1 (back)
- * Sell - Zone Propane 2
- * Sell - Zone Propane 3
+ * Sell - Zone Propane 2 (back)
+ * Sell - Zone Propane 3 (back)
  * Sell - Zone Propane 4 (back)
 
-Special Notes: the "Boat unload" sell point is unusable, see below.
+Special Notes: the "Boat unload" sell point is unusable, see below. Also, only Boat Unload 2 is included.
 
 When a point has "back", it uses a reverse driving path.
 
@@ -134,11 +136,11 @@ When a point has "no exit" noted, it is a pull in point with no return path avai
  * Boat Dock
  * Farm Expansion
  * Observatory
- * Farm 02
  * Tree Island
  * Farm House (back)
  * Shed Area 1 (no exit)
  * Silo Shed Area
+ * SW Island Placables
 
 ## Non-Standard Structures
  
