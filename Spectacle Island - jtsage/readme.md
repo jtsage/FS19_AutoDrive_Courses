@@ -97,6 +97,7 @@ When a point has "hand", the product must be hand carried the last few meters to
  * Buy - Import Crane
  * Vehicle Shop
  * Farm - Repair Shop (no exit)
+ * Store (no exit)
 
 When a point has "no exit" noted, it is a pull in point with no return path available.
 

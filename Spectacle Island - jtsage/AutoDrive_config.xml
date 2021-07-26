@@ -534,6 +534,11 @@
             <name>Silo - Dock Pickup (back)</name>
             <group>Silos and Buy Points</group>
         </mm97>
+        <mm98>
+            <id>297.000000</id>
+            <name>Store</name>
+            <group>All</group>
+        </mm98>
     </mapmarker>
     <lastTipOfTheDay>1</lastTipOfTheDay>
     <highestTipOfTheDay>1</highestTipOfTheDay>
