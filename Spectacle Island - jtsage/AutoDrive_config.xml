@@ -177,17 +177,17 @@
         <mm26>
             <id>6097.000000</id>
             <name>Barge - Farm Dock</name>
-            <group>Barge Route</group>
+            <group>Water Routes</group>
         </mm26>
         <mm27>
             <id>6101.000000</id>
             <name>Barge - Farm Dock Outside</name>
-            <group>Barge Route</group>
+            <group>Water Routes</group>
         </mm27>
         <mm28>
             <id>6367.000000</id>
             <name>Barge - Unload Dock</name>
-            <group>Barge Route</group>
+            <group>Water Routes</group>
         </mm28>
         <mm29>
             <id>4722.000000</id>
@@ -526,7 +526,7 @@
         </mm95>
         <mm96>
             <id>5955.000000</id>
-            <name>Silo - Dock</name>
+            <name>Silo - Dock (back)</name>
             <group>Silos and Buy Points</group>
         </mm96>
         <mm97>
