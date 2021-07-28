@@ -11,6 +11,10 @@ https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=206540&title
 
 None available
 
+## Contributors
+[J.T. Sage](https://github.com/jtsage)
+[Dylan M](https://github.com/Dylan-M)
+
 # Route Map Image
 
 ![Route Map](Map.png)
